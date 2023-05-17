@@ -27,3 +27,15 @@ CHANGE A BIT IN SCRIPT....
 
 
 7. push it on repo...NOTE don't push node_modules folder on repo
+8. open render website...login with github
+9. go to dashboard
+10. at top there is NEW button click on it 
+    and select web services
+    and then select your repo
+    you can give any for your server
+
+    final......
+        at bottom there is a button `create webservices`
+        click on it 
+        it will deploy your api..
+        at top you will be getting deploy link
