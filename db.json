@@ -2,8 +2,159 @@
     "products": [
         {
             "id": 1,
-            "product_name": "Justina",
-            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-1.png"
+            "product_name": "Ground coffee - Perfetto Moka Irresistibile",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-1.png",
+            "price": "8.99$",
+            "video": "https://www.bialetti.com/media/video/perfetto-moka-dolce-e-gabbana.mp4",
+            "img1": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-3_4.png",
+            "img2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-1.png",
+            "img3": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-2.png",
+            "img4": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-3.png",
+            "img5": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-coperchio.png"
+        },
+        {
+            "id": 2,
+            "product_name": "Bialetti Dolce&Gabbana Moka Express | Sicilian Cart",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0000_tcce14tcaefuc034_a.png",
+            "price": "9.99$",
+            "img1": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0004_tcce14tcaefuc034_e.png",
+            "img2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0005_tcce15tcaefuc034_a.png",
+            "img3": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0006_tcce15tcaefuc034_b.png",
+            "img4": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0007_tcce15tcaefuc034_c.png",
+            "img5": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0009_tcce15tcaefuc034_e.png",
+            "video": "https://www.bialetti.com/media/video/dolce-gabbana-scheda-prodotto.mp4"
+        },
+        {
+            "id": 3,
+            "product_name": "Coffee beans - Intenso",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_frontale.png",
+            "price": "5.99$",
+            "img1": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_frontale.png",
+            "img2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_laterale.png",
+            "img3": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_retro.png",
+            "img4": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_retro.png",
+            "img5": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/e/s/esperto-grani-top-view-ambientata_quadrata.jpg",
+            "video": "",
+            "use": "As a coffee expert, with its beans, Bialetti accompanies consumers in a true sensory experience to meet all kinds of tastes and needs. For consumers who like to dabble in various preparations by grinding the beans on the spot to preserve the aroma of the coffee."
+           
+        },
+        {
+            "id": 4,
+            "product_name": "Red Vacuum Flask with Cup/Lid",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/c/dcxin00001_01.png",
+            "price": "9.99$",
+            "img1": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/c/dcxin00001_01.png",
+            "img2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/c/dcxin00001_01.png",
+            "img3": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/_/p/_pt03_7.jpg",
+            "img4": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/_/p/_pt04_5.jpg",
+            "img5": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/_/p/_pt04_5.jpg",
+            "video": "",
+            "use": "thanks to its double wall and the quality of the materials used, your drinks will stay hot for 12 hours or cold for 24 hours."
+           
+        },
+        {
+            "id": 5,
+            "product_name": "Ground coffee - Perfetto Moka Irresistibile",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-1.png",
+            "price": "10$",
+            "video": "https://www.bialetti.com/media/video/perfetto-moka-dolce-e-gabbana.mp4",
+            "img1": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-3_4.png",
+            "img2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-1.png",
+            "img3": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-2.png",
+            "img4": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-3.png",
+            "img5": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-coperchio.png"
+        },
+        {
+            "id": 6,
+            "product_name": "Bialetti Dolce&Gabbana Moka Express | Sicilian Cart",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0000_tcce14tcaefuc034_a.png",
+            "price": "9$",
+            "img1": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0004_tcce14tcaefuc034_e.png",
+            "img2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0005_tcce15tcaefuc034_a.png",
+            "img3": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0006_tcce15tcaefuc034_b.png",
+            "img4": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0007_tcce15tcaefuc034_c.png",
+            "img5": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0009_tcce15tcaefuc034_e.png",
+            "video": "https://www.bialetti.com/media/video/dolce-gabbana-scheda-prodotto.mp4"
+        },
+        {
+            "id": 7,
+            "product_name": "Coffee beans - Intenso",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_frontale.png",
+            "price": "15$",
+            "img1": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_frontale.png",
+            "img2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_laterale.png",
+            "img3": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_retro.png",
+            "img4": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_retro.png",
+            "img5": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/e/s/esperto-grani-top-view-ambientata_quadrata.jpg",
+            "video": "",
+            "use": "As a coffee expert, with its beans, Bialetti accompanies consumers in a true sensory experience to meet all kinds of tastes and needs. For consumers who like to dabble in various preparations by grinding the beans on the spot to preserve the aroma of the coffee."
+           
+        },
+        {
+            "id": 8,
+            "product_name": "Red Vacuum Flask with Cup/Lid",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/c/dcxin00001_01.png",
+            "price": "8$",
+            "img1": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/c/dcxin00001_01.png",
+            "img2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/c/dcxin00001_01.png",
+            "img3": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/_/p/_pt03_7.jpg",
+            "img4": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/_/p/_pt04_5.jpg",
+            "img5": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/_/p/_pt04_5.jpg",
+            "video": "",
+            "use": "thanks to its double wall and the quality of the materials used, your drinks will stay hot for 12 hours or cold for 24 hours."
+           
+        },
+        {
+            "id": 9,
+            "product_name": "Ground coffee - Perfetto Moka Irresistibile",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-1.png",
+            "price": "8.99$",
+            "video": "https://www.bialetti.com/media/video/perfetto-moka-dolce-e-gabbana.mp4",
+            "img1": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-3_4.png",
+            "img2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-1.png",
+            "img3": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-2.png",
+            "img4": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-3.png",
+            "img5": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-coperchio.png"
+        },
+        {
+            "id": 10,
+            "product_name": "Bialetti Dolce&Gabbana Moka Express | Sicilian Cart",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0000_tcce14tcaefuc034_a.png",
+            "price": "9.99$",
+            "img1": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0004_tcce14tcaefuc034_e.png",
+            "img2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0005_tcce15tcaefuc034_a.png",
+            "img3": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0006_tcce15tcaefuc034_b.png",
+            "img4": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0007_tcce15tcaefuc034_c.png",
+            "img5": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/g/dg_0009_tcce15tcaefuc034_e.png",
+            "video": "https://www.bialetti.com/media/video/dolce-gabbana-scheda-prodotto.mp4"
+        },
+        {
+            "id": 11,
+            "product_name": "Coffee beans - Intenso",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_frontale.png",
+            "price": "11$",
+            "img1": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_frontale.png",
+            "img2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_laterale.png",
+            "img3": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_retro.png",
+            "img4": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_retro.png",
+            "img5": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/e/s/esperto-grani-top-view-ambientata_quadrata.jpg",
+            "video": "",
+            "use": "As a coffee expert, with its beans, Bialetti accompanies consumers in a true sensory experience to meet all kinds of tastes and needs. For consumers who like to dabble in various preparations by grinding the beans on the spot to preserve the aroma of the coffee."
+           
+        },
+        {
+            "id": 12,
+            "product_name": "Red Vacuum Flask with Cup/Lid",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/c/dcxin00001_01.png",
+            "price": "25$",
+            "img1": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/c/dcxin00001_01.png",
+            "img2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/c/dcxin00001_01.png",
+            "img3": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/_/p/_pt03_7.jpg",
+            "img4": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/_/p/_pt04_5.jpg",
+            "img5": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/_/p/_pt04_5.jpg",
+            "video": "",
+            "use": "thanks to its double wall and the quality of the materials used, your drinks will stay hot for 12 hours or cold for 24 hours."
+           
         }
     ]
 }
