@@ -1,0 +1,29 @@
+ STEPS TO CREATE DEPLOY API ON RENDER WEBSITE.
+
+1. create a js file and paste code which neccessary for the deployment.
+2. create db.json file and create some data.
+3. npm init -> you will get package.json file
+
+CHANGE A BIT IN SCRIPT....
+
+        "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+
+   TO....
+
+    "scripts": {
+    "start": "node product.js"
+  }
+
+  product.js file can be replace to whatever you created.
+
+
+4. npm i json-server cors
+5. npm i json-serve
+
+6. create----> .gitignore
+                    node_modules/
+
+
+7. push it on repo...NOTE don't push node_modules folder on repo
